@@ -18,5 +18,8 @@ No known bugs.
 ## Support and contact details
 contact me at email:kangogoamon27@gmail.com
 ### License
-Copyright (c) {2019} **Kangogo Amon**
+MIT License
+
+Copyright (c) 2019 kangogoamon
+
   
