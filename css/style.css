@@ -1,0 +1,26 @@
+.btn{
+  background-color: white;
+  color: #8E1B6D;
+}
+p{
+  text-align: center;
+  text-decoration: underline;
+}
+p2{
+  font-size: 16px;
+}
+.jumbotron{
+  background-color: #cococo;
+}
+h1{
+  text-align:center;
+  font-family: bonkers;
+  text-decoration: underline;
+}
+.em{
+  color: #999999;
+}
+#youScore{
+  font-size: 20px;
+  font-style: brandon grotesque;
+}
