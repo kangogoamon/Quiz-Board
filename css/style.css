@@ -10,7 +10,7 @@ p2{
   font-size: 16px;
 }
 .jumbotron{
-  background-color: #13020E;
+  background-color: #C0C0C0;
 }
 h1{
   text-align:center;
@@ -18,7 +18,7 @@ h1{
   text-decoration: underline;
 }
 .em{
-  color: #2C0E23
+  color: #999999;
 }
 #youScore{
   font-size: 20px;
